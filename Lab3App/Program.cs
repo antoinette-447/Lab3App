@@ -12,6 +12,7 @@ namespace Lab3App
         {
             Console.WriteLine("Это лабораторная работа №3");
             Console.WriteLine("Вариант 1: проект на C#, подключённый к Git");
+            Console.WriteLine("Второе изменение: работа с ветками и коммитами.");
         }
     }
 }
