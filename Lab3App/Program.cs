@@ -10,7 +10,8 @@ namespace Lab3App
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Это лабораторная работа №3");
+            Console.WriteLine("Вариант 1: проект на C#, подключённый к Git");
         }
     }
 }
